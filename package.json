@@ -21,10 +21,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
-   },
-  "bugs": {
-    "url": "https://github.com/"
+    "url": "git+https://github.com/hgalstyan/content-scraper.git"
   },
-  "homepage": "https://github.com/"
+  "bugs": {
+    "url": "https://github.com/hgalstyan/content-scraper/issues"
+  },
+  "homepage": "https://github.com/hgalstyan/content-scraper#readme"
 }
